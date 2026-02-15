@@ -35,6 +35,7 @@
 - [Nikhil Gone] (https://github.com/Nikhilgone517)
 - [priyanshubarai] (https://github.com/priyanshubarai)
 - [orphicdusk] (https://github.com/orphicdusk)
+- [Socks_](https://github.com/Aditya123500)
 [srikar] (https://https://github.com/Srikarpolimera)
 [Nikhilendar Sai](https://github.com/bunnytns6-cpu)
 [Nikhitha Talari](https://github.com/Nikhitha-spec)
@@ -2173,7 +2174,7 @@ contribution by arshi
 - Nabanita Borah
 - [conlusive](https://github.com/conlusive)
 - [peterkalven-wang](https://github.com/peterkalven-wang)
-- [Socks](https://github.com/Aditya123500)
+
 -[Amrita0205](https://github.com/Amrita0205)
 - [akienneh](https://github.com/akienneh) 
 - Nanij Agrawal
